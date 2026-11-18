@@ -9,6 +9,16 @@
 3. 合并回 main（merge，相当于合并一个 PR）
 4. 推到 GitHub（push）
 
+## 小抄
+
+```
+git status              看状态（最常用）
+git add .               暂存改动
+git commit -m "说明"     存档
+git pull                拉取别人的更新
+git push                推送到 GitHub
+```
+
 ## 记录
 
 - 在这里随手写一行，观察 `git diff` 的输出。
